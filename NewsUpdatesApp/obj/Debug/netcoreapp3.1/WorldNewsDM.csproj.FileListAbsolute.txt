@@ -1,0 +1,195 @@
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountriesView.g.cs
+C:\Users\King Coder\Desktop\Projects\C# Projects\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountriesView.baml
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\moore\Desktop\Business\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountriesView.g.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountriesView.baml
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CoreCompileInputs.cache
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.genruntimeconfig.cache
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.g.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.baml
+C:\Users\moore\Desktop\Business\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.g.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.g.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.baml
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.baml
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\New folder\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.g.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.g.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.baml
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.baml
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CoreCompileInputs.cache
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+D:\Software Dev Profile\C# PORTFOLIO\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.genruntimeconfig.cache
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.baml
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.baml
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CoreCompileInputs.cache
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.genruntimeconfig.cache
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsDisplay.g.cs
+C:\Users\King Coder\Desktop\COMPLETED APPS\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsDisplay.baml
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsDisplay.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.baml
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.baml
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsDisplay.baml
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CoreCompileInputs.cache
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.genruntimeconfig.cache
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.exe
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.deps.json
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.json
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.runtimeconfig.dev.json
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csprojAssemblyReference.cache
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsDisplay.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.cache
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM_MarkupCompile.lref
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\CountryView.baml
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\DisplayNewsView.baml
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsDisplay.baml
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\Views\NewsView.baml
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.g.resources
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfoInputs.cache
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.AssemblyInfo.cs
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CoreCompileInputs.cache
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.csproj.CopyComplete
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.dll
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.pdb
+C:\Users\King Coder\Desktop\Apps for Idonix\WorldNewsDM\obj\Debug\netcoreapp3.1\WorldNewsDM.genruntimeconfig.cache

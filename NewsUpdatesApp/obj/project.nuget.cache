@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCl6UM378CQjK8qNKVGOqGapjtXyqBaRUdnGUe385X96YevpFS8CuSUajqdTWAr1geWiJ8JVj58rPYWNXsql+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\King Coder\\Desktop\\Apps for Idonix\\WorldNewsDM\\WorldNewsDM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\King Coder\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="WorldNewsDM.Views.NewsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WorldNewsDM.Views"
+             mc:Ignorable="d" Height="594" Width="450">
+
+    <Control.Resources>
+        <DataTemplate x:Key="lbxNewsTemplate">
+            <Border BorderThickness="5" BorderBrush="AliceBlue" Width="auto">
+                <StackPanel >
+                    <TextBlock Text="{Binding Path=Title}">
+                        <TextBlock.Foreground>
+                            <SolidColorBrush Color="Blue"/>
+                        </TextBlock.Foreground>
+
+                    </TextBlock>
+                    <TextBlock Text="{Binding Path=Author}">
+                        <TextBlock.Foreground>
+                            <SolidColorBrush Color="Black"/>
+                        </TextBlock.Foreground>
+
+                    </TextBlock>
+                    <TextBlock Text="{Binding Path=Url}">
+                        <TextBlock.Foreground>
+                            <SolidColorBrush Color="Gray"/>
+                        </TextBlock.Foreground>
+                    </TextBlock>
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+    </Control.Resources>
+    <Grid>
+        <ListBox x:Name="lbxNews"  ItemsSource="{Binding News}"  
+                                   ItemTemplate="{StaticResource lbxNewsTemplate}" 
+                                   SelectedItem="{Binding SelectedNews}" 
+                                   />
+    </Grid>
+</UserControl>
